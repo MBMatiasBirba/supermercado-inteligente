@@ -1,5 +1,13 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "scripts": { "start": "react-scripts start" }
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.6.2"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
 }
